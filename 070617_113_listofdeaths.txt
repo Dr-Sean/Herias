@@ -1,0 +1,53 @@
+Name	New Name
+Certain conditions originating in the perinatal period (P00-P96)	Perinatal conditions
+"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)"	Birth defects
+"Accidents (unintentional injuries) (V01-X59,Y85-Y86)"	Accidents
+Malignant neoplasms (C00-C97)	Cancer
+"Assault (homicide) (U01-U02,X85-Y09,Y87.1)"	Homicide
+"Intentional self-harm (suicide) (U03,X60-X84,Y87.0)"	Suicide
+"Diseases of heart (I00-I09,I11,I13,I20-I51)"	Heart diseases
+"Malignant neoplasms of lymphoid, hematopoietic and related tissue (C81-C96)"	Leukemia or lymphoma or myeloma
+"Pregnancy, childbirth and the puerperium (O00-O99)"	Pregnancy or childbirth
+Human immunodeficiency virus (HIV) disease (B20-B24)	HIV
+Malignant neoplasm of breast (C50)	Breast cancer
+Malignant neoplasm of cervix uteri (C53)	Cervical cancer
+Diabetes mellitus (E10-E14)	Diabetes
+"Chronic liver disease and cirrhosis (K70,K73-K74)"	Chronic liver disease or cirrhosis
+Cerebrovascular diseases (I60-I69)	Stroke
+"Malignant neoplasms of colon, rectum and anus (C18-C21)"	Colorectal cancer
+Septicemia (A40-A41)	Septicemia
+"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)"	Kidney disease
+Malignant neoplasm of stomach (C16)	Stomach cancer
+Malignant neoplasm of ovary (C56)	Ovarian cancer
+Influenza and pneumonia (J09-J18)	Flu and pneumonia
+"Malignant neoplasms of trachea, bronchus and lung (C33-C34)"	Lung cancer
+"Malignant neoplasms of meninges, brain and other parts of central nervous system (C70-C72)"	Cancer of the central nervous system
+Chronic lower respiratory diseases (J40-J47)	Chronic lower respiratory diseases
+Malignant neoplasm of pancreas (C25)	Pancreatic cancer
+"Malignant neoplasms of corpus uteri and uterus, part unspecified (C54-C55)"	Uterine cancer
+Malignant melanoma of skin (C43)	Skin cancer
+Viral hepatitis (B15-B19)	Hepatitis
+"Essential hypertension and hypertensive renal disease (I10,I12,I15)"	Hypertension or hypertensive kidney disease
+Malignant neoplasms of liver and intrahepatic bile ducts (C22)	Liver cancer
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)"	Benign or in situ or unknown cancers
+Malignant neoplasms of kidney and renal pelvis (C64-C65)	Kidney cancer
+"Malignant neoplasms of lip, oral cavity and pharynx (C00-C14)"	Oral cancer
+Malignant neoplasm of bladder (C67)	Bladder cancer
+Pneumonitis due to solids and liquids (J69)	Pneumonitis
+Peptic ulcer (K25-K28)	Peptic ulcer
+Enterocolitis due to Clostridium difficile (A04.7)	Enterocolitis from Clostridium difficile
+Malignant neoplasm of esophagus (C15)	Esophageal cancer
+Aortic aneurysm and dissection (I71)	Aneurysm
+Alzheimer's disease (G30)	Alzheimer's disease
+Parkinson's disease (G20-G21)	Parkinson's disease
+Cholelithiasis and other disorders of gallbladder (K80-K82)	Gallbladder disorders
+Atherosclerosis (I70)	Atherosclerosis
+Anemias (D50-D64)	Anemia
+Nutritional deficiencies (E40-E64)	Nutritional deficiencies
+Hernia (K40-K46)	Hernia
+"Complications of medical and surgical care (Y40-Y84,Y88)"	Medical complications
+Malignant neoplasm of prostate (C61)	Prostate cancer
+"Legal intervention (Y35,Y89.0)"	Legal intervention
+Malignant neoplasm of larynx (C32)	Laryngeal cancer 
+"Pneumoconioses and chemical effects (J60-J66,J68)"	Pneumoconiosis
+Hyperplasia of prostate (N40)	Prostate hyperplasia
